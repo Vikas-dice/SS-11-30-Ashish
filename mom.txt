@@ -58,3 +58,40 @@ sum of first 1-- natural numbers
 
 
 
+
+
+sum of odd and even number in range from 1 to 100
+sum of prime number in range 1-100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
